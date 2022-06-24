@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -lan -d
-ls -an /boot
-
+ls -Rns
