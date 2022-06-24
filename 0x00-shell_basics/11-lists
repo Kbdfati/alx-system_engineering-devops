@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -lan -d
+ls -an /boot
+
