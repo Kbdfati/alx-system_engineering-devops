@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lon
+ls -loan
